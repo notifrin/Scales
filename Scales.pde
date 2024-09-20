@@ -19,4 +19,7 @@ triangle(0+x,0+y,80+x,62+y,250+x,50+y);
   fill(r*g, 255, g);
 ellipse(0+x,30+y,10,110);
 bezier(20+x,20+y,-200+x,110+y,100+x,75+y,140+x,140+y);
+  fill(r*g, r, g);
+ellipse(0+x,200+y,50,220);
+
   }
